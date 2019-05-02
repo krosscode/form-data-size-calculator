@@ -9,7 +9,7 @@ It works by generating a string that emulates php://input as closely as possible
 **HTML**
 
 ```html
-<form id="form">
+<form id="form" method="post">
 	<input name="input-1" type="text">
 </form>
 ```
