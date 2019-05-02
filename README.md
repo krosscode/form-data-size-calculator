@@ -40,7 +40,6 @@ Currently these input types are supported:
 - date
 - datetime-local
 - email
-- file
 - hidden
 - month
 - number
