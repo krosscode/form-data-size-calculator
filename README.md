@@ -4,6 +4,13 @@ This script calculates the size of a forms data. The primary purpose is to make 
 
 It works by generating a string that emulates php://input as closely as possible.
 
+## Installation
+
+```html
+<!-- Form data size calculator -->
+<script src="https://raw.githubusercontent.com/krosscode/form-data-size-calculator/master/form-data-size-calculator.js"></script>
+```
+
 ## Usage
 
 **HTML**
